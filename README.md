@@ -24,10 +24,10 @@ A hospital network ran its reports manually in Excel and the numbers did not mat
 3. Fix master data (unique hospital and doctor IDs).
 
 ## Dashboard pages
-![Overview](carenova_hospital_powerbi/overview.png.png)
-![Clinical](carenova_hospital_powerbi/Clinical.png.png)
-![Financial](carenova_hospital_powerbi/financial.png.png)
-![Recommendations](carenova_hospital_powerbi/recommendations.png.png)
+![Overview](carenova_hospital_powerbi/overview.png)
+![Clinical](carenova_hospital_powerbi/Clinical.png)
+![Financial](carenova_hospital_powerbi/financial.png)
+![Recommendations](carenova_hospital_powerbi/recommendations.png)
 
 ## Files
 The `carenova_hospital_powerbi/` folder has the Power BI file (.pbix), a PDF export of the 4 pages and the dashboard screenshots.
